@@ -12,3 +12,6 @@ import { RouterOutlet } from '@angular/router';
 export class AppComponent {
   title = 'pruebas-angular-15';
 }
+/*
+npm install primeng
+*/
